@@ -1,0 +1,9 @@
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\bin\Debug\HidroDictionary.exe.config
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\bin\Debug\HidroDictionary.exe
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\bin\Debug\HidroDictionary.pdb
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\obj\Debug\HidroDictionary.csprojAssemblyReference.cache
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\obj\Debug\HidroDictionary.Properties.Resources.resources
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\obj\Debug\HidroDictionary.csproj.GenerateResource.cache
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\obj\Debug\HidroDictionary.csproj.CoreCompileInputs.cache
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\obj\Debug\HidroDictionary.exe
+E:\DEVDIR\workspace\hidroproject\HidroDictionary\HidroDictionary\obj\Debug\HidroDictionary.pdb

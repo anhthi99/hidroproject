@@ -1,0 +1,9 @@
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\bin\Debug\HidroHub_WinVer.exe.config
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\bin\Debug\HidroHub_WinVer.exe
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\bin\Debug\HidroHub_WinVer.pdb
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\obj\Debug\HidroHub_WinVer.Form1.resources
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\obj\Debug\HidroHub_WinVer.Properties.Resources.resources
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\obj\Debug\HidroHub_WinVer.csproj.GenerateResource.cache
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\obj\Debug\HidroHub_WinVer.csproj.CoreCompileInputs.cache
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\obj\Debug\HidroHub_WinVer.exe
+E:\DEVDIR\workspace\hidroproject\HidroHub_WinVer\HidroHub_WinVer\obj\Debug\HidroHub_WinVer.pdb

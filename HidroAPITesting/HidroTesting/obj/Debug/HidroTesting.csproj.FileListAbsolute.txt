@@ -2,9 +2,9 @@ E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\bin\Debug\HidroTes
 E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\bin\Debug\HidroTesting.exe
 E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\bin\Debug\HidroTesting.pdb
 E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\obj\Debug\HidroTesting.csprojAssemblyReference.cache
-E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\obj\Debug\HidroTesting.Form1.resources
 E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\obj\Debug\HidroTesting.Properties.Resources.resources
 E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\obj\Debug\HidroTesting.csproj.GenerateResource.cache
 E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\obj\Debug\HidroTesting.csproj.CoreCompileInputs.cache
 E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\obj\Debug\HidroTesting.exe
 E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\obj\Debug\HidroTesting.pdb
+E:\DEVDIR\workspace\hidroproject\HidroAPITesting\HidroTesting\obj\Debug\HidroTesting.frmMain.resources
